@@ -41,3 +41,23 @@ h1{
 .hero p{
     font-size: 30px;
 }
+button{
+    width: 250px;
+    height: 65px;
+    margin-right: 25px;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: verdana;
+    text-decoration: none;
+}
+.button{
+    display: flex;
+    
+    
+}
+.colored_btn{
+    background-color: #2cb674;
+}
+a {
+    text-decoration: none;
+}
